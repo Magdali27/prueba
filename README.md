@@ -2,6 +2,12 @@
 
 Este es un repositorio de prueba
 
-## Estamos aprendienoGit
+## Estamos aprendieno Git
 
--Daniel Jose Fuentes
+Estamos aprendiendo git.
+
+
+## Desarrolladores del proyecto
+
+-Daniel Jose Fuentes Carrillo (Front End)
+-Magdali Liseth León Mantilla (Backend)
