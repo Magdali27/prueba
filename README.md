@@ -1,3 +1,7 @@
+# Foobar
+
+Foobar is a Python library for dealing with word pluralization.
+
 # prueba
 
 Este es un repositorio de prueba
