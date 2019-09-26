@@ -1,8 +1,8 @@
-# Foobar
+# System Prueba
 
-Foobar is a Python library for dealing with word pluralization.
+Esta es una prueba del funcionamiento de Git
 
-# prueba
+# Prueba
 
 Este es un repositorio de prueba
 
@@ -13,5 +13,6 @@ Estamos aprendiendo git.
 
 ## Desarrolladores del proyecto
 
--Daniel Jose Fuentes Carrillo (Front End)
--Magdali Liseth León Mantilla (Backend)
+- Daniel Jose Fuentes Carrillo (Front End)
+
+- Magdali Liseth León Mantilla (Backend)
