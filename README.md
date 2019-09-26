@@ -16,3 +16,5 @@ Estamos aprendiendo git.
 - Daniel Jose Fuentes Carrillo (Front End)
 
 - Magdali Liseth León Mantilla (Backend)
+
+## Estamos aprendiendo Bien
